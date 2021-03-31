@@ -89,7 +89,10 @@ jsproxy_config({
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
     'https://www.pornhub.com/': {
-      redir: 'https://php.net/'
+      redir: 'https://www.pornhub.com/'
+    },
+    'https://www.91pron.com/': {
+      redir: 'https://www.91pron.com/'
     },
     'http://haha.com/': {
       content: 'Hello World'
